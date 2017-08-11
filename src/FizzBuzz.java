@@ -10,6 +10,7 @@ public class FizzBuzz {
 			return "Buzz";
 		}
 		return String.valueOf(num);
+
 	}
 
 }
